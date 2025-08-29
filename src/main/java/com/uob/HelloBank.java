@@ -3,7 +3,7 @@ package com.uob;
 public class HelloBank {
     public static void main(String[] args) {
         String password = "abc";
-        int x = 1 / 0;
+        int username = "username";
         
         System.out.println("Welcome to UOB!");
         System.out.println("Welcome to UOBx!");

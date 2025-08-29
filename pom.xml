@@ -17,6 +17,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <sonar.projectKey>immalcolm_sonarqube-java-sample</sonar.projectKey>
     <sonar.organization>immalcolm</sonar.organization>
+    <sonar.organization>jiayue314</sonar.organization>
   </properties>
   <dependencies>
     <dependency>

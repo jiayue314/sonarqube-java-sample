@@ -6,6 +6,6 @@ public class Calculator {
             return a / b;
         } catch (Exception e) { // empty catch block
         }
-        return 0;
+        return "zero";
     }
 }
